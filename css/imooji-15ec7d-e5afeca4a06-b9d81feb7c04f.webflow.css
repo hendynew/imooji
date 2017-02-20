@@ -1,0 +1,1899 @@
+.navbar {
+  position: static;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: hsla(0, 0%, 100%, .95);
+}
+
+.hero-section {
+  height: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 204px;
+  padding-bottom: 0px;
+}
+
+.navlink {
+  margin-top: 24px;
+  -webkit-transition: color 350ms ease;
+  transition: color 350ms ease;
+  font-family: Quicksand, sans-serif;
+  color: #797979;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.navlink:hover {
+  color: #f24086;
+}
+
+.navbtn {
+  display: inline-block;
+  margin-top: 28px;
+  margin-left: 15px;
+  padding: 14px 43px;
+  float: right;
+  border: 1px solid #c2c2c2;
+  border-radius: 29px;
+  background-color: #fff;
+  -webkit-transition: box-shadow 200ms ease;
+  transition: box-shadow 200ms ease;
+  font-family: Quicksand, sans-serif;
+  color: #ed3e8c;
+  cursor: pointer;
+}
+
+.navbtn:hover {
+  box-shadow: 0 0 10px 0 hsla(0, 0%, 77%, .5);
+}
+
+.navbtn.center {
+  display: inline-block;
+  float: none;
+  text-align: center;
+}
+
+.navbtn.navbtn-pink {
+  padding-right: 27px;
+  padding-left: 27px;
+  background-color: #ed3e8c;
+  color: #fff;
+  font-size: 12px;
+}
+
+.navbtn.navbtn-pink:hover {
+  -webkit-filter: contrast(120%);
+  filter: contrast(120%);
+}
+
+.navbtn.navbtn-pink.exp {
+  padding-right: 42px;
+  padding-left: 42px;
+}
+
+.navbtn.pink-btn {
+  background-color: #e83b92;
+  color: #fff;
+  font-size: 10px;
+}
+
+.navbtn.pink-btn:hover {
+  -webkit-filter: contrast(120%);
+  filter: contrast(120%);
+}
+
+.body {
+  overflow: visible;
+  margin-top: 0px;
+  padding-top: 0px;
+  background-image: url('../images/BG-imooji-wave.png');
+  background-position: 0px 0px;
+  background-size: 1700px;
+  background-attachment: scroll;
+  cursor: default;
+}
+
+.createsomething {
+  position: relative;
+  top: -166px;
+  display: block;
+  margin-left: 136px;
+  padding-left: 0px;
+}
+
+.phonemockup {
+  position: relative;
+  left: 517px;
+  top: -543px;
+}
+
+.hero-text {
+  width: 50%;
+  font-family: Muli, sans-serif;
+  text-align: right;
+}
+
+.divcreatestg {
+  position: relative;
+  width: 55%;
+  padding-left: 135px;
+}
+
+.createsmtg {
+  position: relative;
+  left: 143px;
+  top: -27px;
+  right: 0px;
+}
+
+.phonemckps {
+  position: relative;
+  left: 124px;
+  top: -391px;
+}
+
+.textimoojiadalah {
+  position: static;
+  top: -32px;
+  display: inline-block;
+  width: auto;
+  margin-top: 0px;
+  margin-bottom: -44px;
+  padding-top: 0px;
+  font-family: Muli, sans-serif;
+  text-align: right;
+}
+
+.textimoojiadalah.textmobi {
+  position: static;
+}
+
+.txtimooji {
+  margin-bottom: 18px;
+  font-family: Muli, sans-serif;
+  color: #e83b92;
+  font-size: 18px;
+}
+
+.buttonstyle2 {
+  position: relative;
+  left: 110px;
+  top: -235px;
+  margin-left: 16px;
+  padding: 16px 37px;
+  border-radius: 30px;
+  background-color: #e83b92;
+  -webkit-transition: background-color 200ms ease;
+  transition: background-color 200ms ease;
+  font-family: Quicksand, sans-serif;
+  font-size: 11px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.buttonstyle2:hover {
+  background-color: #e9549f;
+  box-shadow: 0 0 6px 0 #fff;
+  -webkit-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+}
+
+.container {
+  position: static;
+  height: 507px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.section2 {
+  margin-top: 71px;
+  margin-bottom: 71px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.heading {
+  display: block;
+  margin-bottom: 20px;
+  padding-bottom: 28px;
+  font-family: Quicksand, sans-serif;
+  color: #535353;
+  text-align: center;
+}
+
+.heading.pemilik {
+  color: #e83b92;
+  font-size: 24px;
+}
+
+.heading.aboutandnews {
+  margin-bottom: 0px;
+  padding-bottom: 21px;
+  font-family: Muli, sans-serif;
+  color: #e83b92;
+}
+
+.block-keunggulan {
+  padding: 0px;
+  text-align: center;
+}
+
+.keunggulanimg {
+  width: 60px;
+}
+
+.keunggulanimg.perusahaan {
+  width: 200px;
+  padding-left: 0px;
+}
+
+.keunggulanheading {
+  margin-top: 8px;
+  margin-bottom: 0px;
+  font-family: Quicksand, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0px;
+  text-transform: none;
+}
+
+.keterangan-keunggulan {
+  padding-top: 0px;
+  font-family: Muli, sans-serif;
+  color: #868686;
+  font-size: 12px;
+}
+
+.container-style {
+  padding: 21px 19px 41px;
+  border-radius: 28px;
+  background-color: hsla(0, 0%, 100%, .8);
+  box-shadow: 0 0 6px 0 #e9e9e9;
+}
+
+.cta {
+  font-family: Quicksand, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.subheader {
+  margin-top: -59px;
+  margin-bottom: 0px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-family: Quicksand, sans-serif;
+  color: grey;
+  font-size: 21px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.subheader.hub {
+  font-size: 17px;
+}
+
+.subheader.hub.subheadmobile.copyright {
+  margin-top: 20px;
+  padding-left: 0px;
+  font-size: 14px;
+  line-height: 23px;
+}
+
+.logoperusahaan {
+  width: 150px;
+  height: auto;
+}
+
+.logo2 {
+  display: block;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 0px;
+  text-align: center;
+}
+
+.btnlogopremium {
+  display: inline-block;
+  overflow: hidden;
+  width: 18%;
+  height: auto;
+  max-height: 100px;
+  max-width: none;
+  margin: 8px 3px 8px 4px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  -webkit-align-content: space-between;
+  -ms-flex-line-pack: justify;
+  align-content: space-between;
+  text-align: center;
+  cursor: pointer;
+}
+
+.btnlogopremium:hover {
+  -webkit-filter: brightness(130%);
+  filter: brightness(130%);
+}
+
+.btncenter {
+  display: block;
+  margin-top: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  float: none;
+  clear: none;
+  direction: ltr;
+  text-align: center;
+}
+
+.btnceneter {
+  margin-top: 14px;
+  padding-left: 20px;
+  text-align: center;
+}
+
+.btnsosmed {
+  width: 40px;
+  cursor: pointer;
+}
+
+.btnsosmed:hover {
+  -webkit-filter: contrast(130%);
+  filter: contrast(130%);
+}
+
+.btnsosmed.sosmed-explore {
+  width: 30px;
+}
+
+.heroleft {
+  display: inline-block;
+  width: 100%;
+  text-align: right;
+}
+
+.div-button-exp-create {
+  display: inline-block;
+  width: 100%;
+  text-align: right;
+}
+
+.div-button-exp-create.divbtn-mobi {
+  margin-top: -51px;
+}
+
+.divright {
+  position: relative;
+  top: 93px;
+  bottom: 0px;
+  width: 40%;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.div-mobile-moclup {
+  margin-top: -12px;
+  margin-right: 13px;
+  margin-left: -51px;
+}
+
+.col-right {
+  padding-left: 0px;
+}
+
+.modal-wrapper {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 9999;
+  display: none;
+  padding-top: 49px;
+  background-color: hsla(0, 0%, 100%, .77);
+  text-align: center;
+}
+
+.signup-wrapper {
+  display: block;
+  width: 350px;
+  margin-top: 29px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 44px 0px 78px;
+  border: 1px solid #eee;
+  border-radius: 13px;
+  background-color: #fff;
+  box-shadow: 0 0 16px 2px #e7e7e7;
+  text-align: center;
+}
+
+.login-fb {
+  position: static;
+  left: 83px;
+  top: -206px;
+  margin-top: 0px;
+  padding-top: 0px;
+  cursor: pointer;
+}
+
+.login-fb:hover {
+  -webkit-filter: contrast(130%);
+  filter: contrast(130%);
+}
+
+.login-fb.btnhover:hover {
+  -webkit-filter: contrast(130%);
+  filter: contrast(130%);
+}
+
+.logintw {
+  position: relative;
+  left: -105px;
+  top: -155px;
+  margin-top: -302px;
+  cursor: pointer;
+}
+
+.logintw:hover {
+  -webkit-filter: contrast(130%);
+  filter: contrast(130%);
+}
+
+.imjlogo {
+  margin-top: 21px;
+}
+
+.btnclose {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  -webkit-transition: color 500ms ease;
+  transition: color 500ms ease;
+  font-family: Quicksand, sans-serif;
+  color: #7c7c7c;
+  font-weight: 400;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btnclose:hover {
+  color: #f24086;
+}
+
+.imoojis {
+  width: 20%;
+}
+
+.divtopimooji {
+  display: block;
+  overflow: visible;
+  width: 18%;
+  margin-right: 8px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  float: left;
+  clear: none;
+  border: 1px solid #dfdfdf;
+  border-radius: 8px;
+  background-color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+.div-imooji-premium {
+  display: inline-block;
+  overflow: hidden;
+  width: 20%;
+  height: 100px;
+  max-height: 100px;
+  max-width: 20%;
+  margin-top: 14px;
+  margin-bottom: 14px;
+  float: none;
+  text-align: center;
+}
+
+.thumbnail {
+  overflow: hidden;
+  width: 100%;
+  height: 165px;
+  max-height: 100%;
+  max-width: 100%;
+  float: none;
+  border-radius: 8px 8px 0px 0px;
+  cursor: pointer;
+}
+
+.titleimooji {
+  display: inline-block;
+  overflow: hidden;
+  width: 100%;
+  height: 7em;
+  max-height: 7em;
+  margin-top: 27px;
+  padding: 0px 11px;
+  float: none;
+  font-family: Quicksand, sans-serif;
+  color: #f03f89;
+  font-size: 12px;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.categoryimooji {
+  margin-top: 0px;
+  padding-bottom: 0px;
+  font-family: Quicksand, sans-serif;
+  color: #8b8b8b;
+  font-size: 10px;
+}
+
+.garis {
+  margin-top: 0px;
+  margin-right: 9px;
+  margin-left: 9px;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  background-color: #d1d1d1;
+}
+
+.garis.garis-baru {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.heart {
+  width: 20%;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  float: left;
+}
+
+.heart.heartpop {
+  float: none;
+}
+
+.love {
+  margin-top: 6px;
+  margin-left: 10px;
+  padding-top: 0px;
+  float: left;
+  background-image: url('../images/love.png');
+  background-position: 0px 0px;
+  background-size: contain;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.love:hover {
+  background-image: url('../images/loveicon.png');
+  background-position: 0px 0px;
+  background-size: contain;
+  opacity: 1;
+}
+
+.love.popoutmodal {
+  margin-left: 0px;
+  cursor: pointer;
+}
+
+.angkalove {
+  margin-top: 5px;
+  margin-left: 3px;
+  padding-top: 0px;
+  float: left;
+  font-family: Quicksand, sans-serif;
+  color: #5f5f5f;
+  font-size: 10px;
+}
+
+.angkalove.angkalovepop {
+  margin-left: 9px;
+}
+
+.view {
+  width: 20%;
+  margin-top: 3px;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-top: 1px;
+  float: right;
+}
+
+.angkaview {
+  margin-top: 2px;
+  margin-right: 9px;
+  margin-left: 5px;
+  padding-top: 4px;
+  padding-right: 0px;
+  float: right;
+  font-family: Quicksand, sans-serif;
+  color: #5f5f5f;
+  font-size: 10px;
+}
+
+.angkaview.viewpopup {
+  margin-top: 3px;
+  padding-top: 0px;
+}
+
+.divimooji-all {
+  margin-bottom: 22px;
+  margin-left: 41px;
+  text-align: center;
+}
+
+.imoojiclick {
+  width: 150px;
+  float: left;
+}
+
+.imjclick {
+  width: 100%;
+  margin-right: 7px;
+  margin-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 8px;
+  float: left;
+  border: 1px solid #dfdfdf;
+  border-radius: 8px;
+  background-color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+.imjclick:hover {
+  box-shadow: 0 -2px 18px -3px #c9c9c9;
+}
+
+.imjclick.mobile {
+  width: 18%;
+  padding-bottom: 0px;
+  float: none;
+  text-align: center;
+}
+
+.imjclick.mobile.homepageimj {
+  display: inline-block;
+  width: 18%;
+  height: auto;
+  padding-bottom: 8px;
+  cursor: pointer;
+}
+
+.imjclick.mobile.homepageimj:hover {
+  box-shadow: 1px 7px 15px -6px rgba(0, 0, 0, .18);
+}
+
+.imjclick.mobile.homepageimj.clickinside {
+  width: 100%;
+  margin-bottom: 0px;
+  border-style: none;
+}
+
+.imjclick.mobile.homepageimj.clickinside:hover {
+  box-shadow: none;
+}
+
+.imjclick.mobile.homepageimj.explorecolumn {
+  width: 100%;
+}
+
+.imjclick.mobile.homepageimj.explorecolumn.explore {
+  width: 100%;
+}
+
+.imjclick.imoojis-explore {
+  width: auto;
+  padding-bottom: 16px;
+}
+
+.imjclick.imjclick-explore {
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+.createsmt {
+  float: left;
+}
+
+.tst {
+  padding-top: 37px;
+  padding-bottom: 0px;
+  background-color: #fff;
+}
+
+.tst.mobile {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  padding-bottom: 26px;
+  opacity: 0.94;
+}
+
+.tst.mobile.food {
+  background-image: url('../images/bg-food2.jpg');
+  background-position: 0px 0px;
+  background-size: 640px;
+}
+
+.tst.mobile.food.fixmenuatas {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  z-index: 99;
+  background-color: hsla(0, 0%, 100%, 0);
+  background-image: -webkit-linear-gradient(270deg, rgba(230, 59, 136, .92), rgba(230, 59, 136, .92));
+  background-image: linear-gradient(180deg, rgba(230, 59, 136, .92), rgba(230, 59, 136, .92));
+  opacity: 1;
+}
+
+.tst.mobile.food.fixmenuatas.premium {
+  background-image: url('../images/BGpremium.jpg');
+  background-size: cover;
+}
+
+.tst.mobile.food.fixmenuatas.aboutusnav {
+  background-color: hsla(0, 0%, 100%, .96);
+  background-image: none;
+}
+
+.logo {
+  position: static;
+}
+
+.logo:hover {
+  -webkit-filter: contrast(110%);
+  filter: contrast(110%);
+}
+
+.logo.logobrowse {
+  margin-bottom: 63px;
+  float: right;
+}
+
+.div1 {
+  display: inline-block;
+  float: none;
+}
+
+.txtmbl {
+  font-size: 16px;
+}
+
+.divcrt {
+  margin-left: 115px;
+}
+
+.divleft {
+  display: inline-block;
+  width: 55%;
+}
+
+.div-right {
+  display: inline-block;
+  float: right;
+}
+
+.div-left {
+  display: inline-block;
+  width: 55%;
+  margin-top: 0px;
+  padding-top: 0px;
+  float: left;
+}
+
+.divrht {
+  position: relative;
+  left: -8px;
+  top: -34px;
+  z-index: 20;
+  display: inline-block;
+  margin-right: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  float: right;
+  cursor: pointer;
+}
+
+.gbrcreate {
+  margin-left: 132px;
+}
+
+.divbtn {
+  text-align: right;
+}
+
+.gbrphone {
+  cursor: pointer;
+}
+
+.gbrphone:hover {
+  opacity: 0.86;
+}
+
+.bodyexplore {
+  overflow: visible;
+  height: auto;
+  min-height: 0%;
+  padding-bottom: 130px;
+  background-color: hsla(0, 0%, 100%, 0);
+  background-image: url('../images/BG-browse.jpg');
+  background-position: 50% 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.bodyexplore.premiumbody {
+  background-image: url('../images/BGpremium.jpg');
+  background-size: 1905px;
+}
+
+.bodyexplore.aboutusbody {
+  background-image: url('../images/BG-imooji-wave.png');
+  background-size: cover;
+}
+
+.explore-head {
+  display: inline-block;
+  margin-top: 36px;
+  margin-left: 39px;
+  padding-left: 0px;
+  float: none;
+  font-family: Quicksand, sans-serif;
+  color: #f24086;
+  font-size: 27px;
+  font-weight: 400;
+}
+
+.explore-head.browsehead {
+  margin-top: 20px;
+  margin-left: 0px;
+  color: #fff;
+}
+
+.explore-head.browse {
+  margin-left: 175px;
+  color: #fff;
+}
+
+.menu-kiri {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  margin-right: 0px;
+  margin-bottom: -115px;
+  padding-top: 192px;
+  padding-right: 53px;
+  padding-left: 137px;
+}
+
+.menu-kiri.tablet {
+  z-index: 105;
+  overflow: auto;
+  padding-top: 29px;
+  padding-right: 30px;
+  background-color: #fff;
+  box-shadow: 9px 2px 21px 0 rgba(0, 0, 0, .16);
+}
+
+.searchfield {
+  padding: 13px 17px;
+  border-radius: 20px;
+  font-family: Muli, sans-serif;
+}
+
+.explorebutton-kiri {
+  padding-top: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  font-family: Muli, sans-serif;
+  text-align: right;
+  cursor: pointer;
+}
+
+.link-kiri {
+  -webkit-transition: color 200ms ease;
+  transition: color 200ms ease;
+  color: #464646;
+  font-size: 17px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.link-kiri:hover {
+  color: #e83b92;
+}
+
+.link-kiri.minor-menu {
+  color: #bebebe;
+}
+
+.link-kiri.minor-menu:hover {
+  color: #e83b92;
+}
+
+.categoriesmenu {
+  color: #e83b92;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.menudikiri {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  margin-left: 43px;
+  padding-left: 58px;
+}
+
+.menu-kiri-button {
+  padding-top: 8px;
+  padding-right: 10px;
+  padding-bottom: 8px;
+  font-family: Muli, sans-serif;
+  text-align: right;
+  text-decoration: none;
+}
+
+.text-menu-kiri {
+  -webkit-transition: color 200ms ease;
+  transition: color 200ms ease;
+  color: #353535;
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.text-menu-kiri:hover {
+  color: #aaa;
+}
+
+.text-menu-kiri.minor {
+  color: #a5a5a5;
+}
+
+.text-menu-kiri.minor:hover {
+  color: #dbdbdb;
+}
+
+.imooji-section {
+  margin-top: 185px;
+  margin-right: 30px;
+  margin-left: 378px;
+}
+
+.imooji-section.imoojisec-phone {
+  margin-top: 140px;
+}
+
+.divsosmed {
+  margin-top: 12px;
+  float: none;
+  text-align: right;
+}
+
+.imoojicol-style {
+  padding: 0px;
+}
+
+.row {
+  display: inline-block;
+}
+
+.rowexplore {
+  margin-top: 36px;
+}
+
+.testdivimoji {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.page-number {
+  padding-right: 13px;
+  padding-left: 13px;
+  -webkit-transition: color 200ms ease;
+  transition: color 200ms ease;
+  font-family: Quicksand, sans-serif;
+  color: #979797;
+  font-size: 19px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.page-number:hover {
+  color: #e83b92;
+}
+
+.page-number.pagebrowse {
+  color: #fff;
+}
+
+.div-page-number {
+  margin-top: 34px;
+  text-align: center;
+}
+
+.div-sosmed-mobile {
+  margin-top: 21px;
+}
+
+.premium-cover {
+  overflow: hidden;
+  height: 250px;
+  margin-bottom: 24px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border: 1px solid silver;
+  border-radius: 16px;
+  text-align: center;
+}
+
+.testcover {
+  position: static;
+  top: -24px;
+  width: 100%;
+}
+
+.paragraph {
+  font-family: Muli, sans-serif;
+  color: #4e4e4e;
+  font-weight: 400;
+}
+
+.videomodal {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 9999;
+  display: none;
+  width: auto;
+  height: auto;
+  padding-top: 0px;
+  background-color: hsla(0, 0%, 100%, .74);
+  color: #fff;
+}
+
+.vidsize {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 30%;
+  margin-top: 23px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.contmodal {
+  display: block;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 25px 78px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.imoojimodal {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 99999;
+  display: none;
+  padding-top: 50px;
+  background-color: hsla(0, 0%, 100%, .74);
+}
+
+.imoojimodalcont {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.imoojipop {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  display: block;
+  overflow: visible;
+  width: 64%;
+  margin-top: 12px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 12px 25px 38px;
+  float: none;
+  background-color: #fff;
+  box-shadow: 0 5px 18px 0 hsla(0, 0%, 49%, .2);
+}
+
+.popupimoojihead {
+  font-family: Quicksand, sans-serif;
+  color: #e93b92;
+  font-size: 17px;
+}
+
+.popupdivkanan {
+  text-align: left;
+}
+
+.popupdesc {
+  font-family: Muli, sans-serif;
+  font-size: 14px;
+}
+
+.imoojiembed {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.fbsharebtnpop {
+  margin-top: 12px;
+  padding-right: 35px;
+  float: none;
+  text-align: left;
+}
+
+.whatsappshare {
+  position: static;
+  display: block;
+  float: none;
+  text-align: left;
+}
+
+.twittersharepop {
+  position: relative;
+  overflow: hidden;
+  text-align: left;
+}
+
+.divviewmodal {
+  display: inline-block;
+}
+
+.viewimagepop {
+  float: left;
+}
+
+.htmlembed {
+  z-index: 999;
+  display: block;
+  width: 100%;
+  height: 450px;
+  margin: 10px auto 0px;
+  padding-top: 19px;
+  padding-bottom: 0px;
+}
+
+.linkbloklove {
+  display: inline-block;
+  float: left;
+  cursor: pointer;
+}
+
+.hovercover {
+  position: static;
+  left: 0px;
+  top: 0px;
+  bottom: 37px;
+  z-index: 999;
+  display: inline-block;
+  width: 18%;
+  height: 13%;
+  margin-right: auto;
+  margin-left: auto;
+  float: left;
+  background-color: hsla(0, 0%, 100%, .86);
+  text-align: center;
+}
+
+.hoverimooji {
+  position: relative;
+  top: 57px;
+  z-index: 99;
+  display: block;
+  float: none;
+  clear: none;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  background-color: #fff;
+}
+
+.linkblocktest {
+  cursor: pointer;
+}
+
+.btntesss {
+  position: relative;
+  z-index: 9999;
+  cursor: pointer;
+}
+
+.container-premium {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.dummyclick {
+  position: absolute;
+  display: block;
+  height: 302px;
+  float: none;
+  opacity: 0;
+}
+
+.column {
+  position: static;
+}
+
+.premimooji {
+  overflow: hidden;
+  width: 18%;
+  max-height: 100px;
+  margin: 5px 4px;
+}
+
+.divprem {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.dropdown-sort {
+  position: static;
+  left: 84px;
+  display: block;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  float: none;
+  border: 1px none #000;
+  text-align: right;
+}
+
+.btnsortby {
+  font-family: Muli, sans-serif;
+}
+
+.divsort {
+  position: fixed;
+  left: 0px;
+  top: 158px;
+  right: 0px;
+  z-index: 99;
+  padding-right: 34px;
+  background-color: #fff;
+  text-align: right;
+}
+
+.divsort.divsortmobile {
+  background-color: hsla(0, 0%, 100%, .79);
+}
+
+.dropdown {
+  -webkit-transition: opacity 200ms ease;
+  transition: opacity 200ms ease;
+  font-family: Muli, sans-serif;
+  color: #353535;
+}
+
+.dropdowntoggle {
+  -webkit-transition: opacity 200ms ease;
+  transition: opacity 200ms ease;
+}
+
+.dropdowntoggle:hover {
+  opacity: 0.5;
+}
+
+.dropdownlink.w--open {
+  background-color: #fff;
+}
+
+html.w-mod-js *[data-ix="modal-interaction"] {
+  display: none;
+  opacity: 0;
+  -webkit-transform: scale(1.1, 1.1);
+  -ms-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+}
+
+@media (max-width: 991px) {
+  .navbar {
+    display: block;
+  }
+  .hero-section {
+    margin-top: 162px;
+    padding-top: 28px;
+  }
+  .navlink.explorenavlink {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .navbtn.navbtn-pink {
+    padding-right: 23px;
+    padding-left: 23px;
+    font-size: 10px;
+  }
+  .body {
+    background-size: 1938px;
+  }
+  .phonemockup {
+    left: 297px;
+  }
+  .textimoojiadalah.textmobi {
+    font-size: 14px;
+  }
+  .heading.aboutandnews {
+    font-family: Muli, sans-serif;
+  }
+  .btnlogopremium.mob {
+    width: 300px;
+  }
+  .div-button-exp-create.divbtn-mobi {
+    display: block;
+  }
+  .modal-wrapper {
+    display: none;
+  }
+  .div-imooji-premium {
+    width: 30%;
+    max-height: none;
+    max-width: none;
+    margin-right: 49px;
+    margin-left: 49px;
+  }
+  .div-imooji-premium.mob {
+    width: 25%;
+    margin-left: 61px;
+  }
+  .titleimooji {
+    width: auto;
+  }
+  .love {
+    margin-top: 0px;
+  }
+  .imjclick {
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  .imjclick.mobile {
+    display: inline-block;
+    width: 25%;
+    margin-bottom: 26px;
+    margin-left: 44px;
+    padding-left: 0px;
+  }
+  .imjclick.mobile.homepageimj {
+    width: 25%;
+    margin-left: 0px;
+  }
+  .imjclick.imoojis-explore {
+    width: auto;
+    margin-left: 0px;
+  }
+  .imjclick.imjclick-explore {
+    margin-left: 0px;
+  }
+  .linklogo {
+    left: 312px;
+    top: 0px;
+    right: 0px;
+    text-align: center;
+  }
+  .mobilemenu {
+    width: auto;
+    margin-top: 31px;
+  }
+  .tst {
+    padding-top: 38px;
+  }
+  .tst.mobile {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    padding-bottom: 25px;
+    background-color: hsla(0, 0%, 100%, .95);
+  }
+  .logo {
+    position: static;
+    left: 250px;
+    top: 7px;
+    display: inline-block;
+    padding-left: 0px;
+    float: none;
+  }
+  .menubtn {
+    left: 79px;
+    top: 31px;
+    right: 0px;
+    padding: 0px;
+    float: left;
+  }
+  .menubtn.w--open {
+    background-color: hsla(0, 0%, 78%, 0);
+  }
+  .nav-menu {
+    margin-top: 10px;
+    margin-bottom: 41px;
+    padding: 0px 61px 41px 143px;
+    background-color: #fff;
+  }
+  .nav-menu.mblkecil {
+    margin-top: 0px;
+  }
+  .nav-menu.mobile2 {
+    margin-top: 0px;
+  }
+  .newbtnblock {
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+  }
+  .div-left {
+    width: 50%;
+  }
+  .divrht {
+    left: -92px;
+    top: -8px;
+    width: 40%;
+    padding-right: 0px;
+  }
+  .gbrcreate {
+    width: 309px;
+    margin-left: 73px;
+  }
+  .divbtn {
+    position: relative;
+    left: 204px;
+    top: 32px;
+    display: inline-block;
+    margin-left: -29px;
+    text-align: left;
+  }
+  .txtmbl1 {
+    font-size: 14px;
+    text-align: right;
+  }
+  .icon {
+    background-color: #fff;
+    color: #f24086;
+    font-size: 65px;
+  }
+  .icon:hover {
+    color: #ff81b3;
+  }
+  .icon:active {
+    color: #ff81b3;
+  }
+  .icon:focus {
+    color: #ff81b3;
+  }
+  .icon.prmeium {
+    background-color: hsla(0, 0%, 100%, 0);
+  }
+  .signin-btn {
+    position: relative;
+    left: -105px;
+    top: 22px;
+    display: inline-block;
+    width: 48px;
+    float: right;
+  }
+  .collogo {
+    position: relative;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .collogo.cologo-explore {
+    position: static;
+    text-align: center;
+  }
+  .explore-head.explore-head-mobile {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-style: normal;
+    font-weight: 300;
+    text-align: center;
+  }
+  .menu-kiri.tablet {
+    padding-right: 31px;
+    padding-left: 101px;
+  }
+  .imooji-section.imoojisec-phone {
+    margin-right: 41px;
+    margin-left: 41px;
+    padding-left: 1px;
+  }
+  .rowexplore.rowexploermobile {
+    margin-top: 0px;
+  }
+  .div-sosmed-mobile {
+    text-align: center;
+  }
+  .container-premium {
+    text-align: center;
+  }
+  .divsort {
+    text-align: center;
+  }
+  .divsort.divsortmobile {
+    position: static;
+    padding-right: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbtn.navbtn-pink {
+    float: none;
+  }
+  .navbtn.navbtn-pink.exp {
+    float: none;
+  }
+  .body {
+    background-position: 50% 0px;
+    background-size: auto;
+  }
+  .textimoojiadalah.phon {
+    text-align: center;
+  }
+  .heading.pemilik {
+    padding-left: 0px;
+  }
+  .heading.pemilik.headmobile {
+    padding-right: 57px;
+    padding-left: 57px;
+  }
+  .heading.headingmobile {
+    padding-right: 51px;
+    padding-left: 51px;
+  }
+  .container-style {
+    display: inline-block;
+    margin-top: 0px;
+  }
+  .subheader.hub.subheadmobile {
+    padding-right: 59px;
+    padding-left: 59px;
+  }
+  .btnlogopremium {
+    text-align: center;
+  }
+  .heroleft {
+    margin-left: 0px;
+    padding-left: 0px;
+    float: none;
+  }
+  .divright {
+    width: auto;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .col-right {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .div-imooji-premium {
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+  }
+  .div-imooji-premium.mob {
+    width: 30%;
+    margin-left: 19px;
+  }
+  .thumbnail {
+    width: 100%;
+    max-width: none;
+  }
+  .heart {
+    margin-top: 8px;
+  }
+  .imjclick.mobile {
+    width: 30%;
+    margin-left: 72px;
+    float: none;
+  }
+  .imjclick.mobile.homepageimj {
+    width: 30%;
+  }
+  .imjclick.imoojis-explore {
+    float: none;
+  }
+  .logo {
+    position: static;
+    left: 181px;
+    top: 4px;
+  }
+  .menubtn.w--open {
+    background-color: hsla(0, 0%, 100%, 0);
+  }
+  .nav-menu.mblkecil {
+    padding-left: 112px;
+  }
+  .nav-menu.mobile2 {
+    margin-top: -1px;
+    padding-left: 96px;
+  }
+  .txtmbl {
+    text-align: center;
+  }
+  .txtmbl2 {
+    text-align: right;
+  }
+  .div {
+    display: inline-block;
+  }
+  .divrht {
+    left: -79px;
+    display: block;
+    padding-left: 0px;
+  }
+  .gbrcreate {
+    position: relative;
+    top: 42px;
+    width: 231px;
+    margin-left: 59px;
+  }
+  .divbtn {
+    position: static;
+    top: 98px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .txtmbl1.phonetxt {
+    position: relative;
+    left: 133px;
+    top: 103px;
+    text-align: center;
+  }
+  .icon.prmeium {
+    background-color: hsla(0, 0%, 100%, 0);
+  }
+  .signin-btn {
+    left: -103px;
+    top: 25px;
+  }
+  .collogo.cologo-explore {
+    position: static;
+    display: inline-block;
+  }
+  .mobilelay-phone {
+    text-align: center;
+  }
+  .textmobilehero {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .div-mobile-menu-exp {
+    text-align: center;
+  }
+  .imooji-section.imoojisec-phone {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 37px;
+    padding-left: 37px;
+  }
+  .div-sosmed-mobile {
+    text-align: center;
+  }
+  .premium-cover.phone {
+    height: 200px;
+  }
+  .imgthumb {
+    width: 100%;
+  }
+}
+
+@media (max-width: 479px) {
+  .navbtn.navbtn-pink {
+    font-size: 11px;
+    text-align: center;
+  }
+  .navbtn.navbtn-pink.exp {
+    font-size: 12px;
+    text-align: center;
+  }
+  .body {
+    background-position: 50% 0px;
+    background-size: auto;
+  }
+  .heading.headingmobile {
+    font-size: 25px;
+    text-align: center;
+  }
+  .subheader {
+    font-size: 13px;
+  }
+  .btnlogopremium {
+    width: 200px;
+  }
+  .div-imooji-premium {
+    width: 50%;
+    max-width: none;
+    margin-right: 28px;
+    margin-left: 28px;
+  }
+  .div-imooji-premium.mob {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .titleimooji {
+    width: auto;
+  }
+  .imjclick.mobile {
+    display: block;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .imjclick.mobile.homepageimj {
+    display: inline-block;
+    width: 60%;
+    float: none;
+  }
+  .imjclick.imoojis-explore {
+    float: none;
+  }
+  .imjclick.imjclick-explore {
+    margin-bottom: 26px;
+  }
+  .logo {
+    left: 65px;
+    width: 94px;
+  }
+  .menubtn {
+    left: 31px;
+  }
+  .nav-menu.mblkecil {
+    padding-left: 51px;
+  }
+  .nav-menu.mobile2 {
+    padding-left: 39px;
+  }
+  .div-left {
+    position: relative;
+  }
+  .divrht {
+    left: -29px;
+    top: 21px;
+    width: 133px;
+  }
+  .gbrcreate {
+    left: -34px;
+    width: 168px;
+  }
+  .divbtn {
+    left: 74px;
+    display: block;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  .txtmbl1.phonetxt {
+    left: 86px;
+    top: 73px;
+  }
+  .icon {
+    font-size: 51px;
+  }
+  .icon.prmeium {
+    background-color: hsla(0, 0%, 100%, 0);
+  }
+  .signin-btn {
+    left: -44px;
+    top: 29px;
+    width: 36px;
+  }
+  .gbrphone {
+    width: 190px;
+  }
+  .collogo.cologo-explore {
+    position: static;
+  }
+  .div-mobile-menu-exp {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .bodyexplore.aboutusbody {
+    background-size: auto;
+  }
+  .imooji-section.imoojisec-phone {
+    text-align: left;
+  }
+  .imoojicol-style {
+    text-align: center;
+  }
+  .row {
+    position: relative;
+    left: 14px;
+    display: block;
+    float: none;
+    clear: none;
+    text-align: left;
+  }
+  .premium-cover.phone {
+    height: 100px;
+  }
+  .testcover {
+    height: auto;
+    max-height: none;
+  }
+  .videomodal {
+    display: none;
+  }
+  .htmlembed {
+    display: block;
+    padding-left: 0px;
+  }
+  .imgthumb {
+    overflow: visible;
+    width: 100%;
+  }
+}
+
